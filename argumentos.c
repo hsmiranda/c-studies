@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 		printf("O argumento %d foi %s\n", i, argv[i]);
 
 	}
-
+ 
 	return 0;
 }
 
